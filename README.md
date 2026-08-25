@@ -1,2 +1,3 @@
 # Stock-Variance-Data-Pipeline
 A Power BI and Python data pipeline tracking inventory flows and shrinkage.
+This repository details a comprehensive business intelligence architecture built to track inventory flows, monitor shrinkage, and manage operational variance. The backend is engineered using a custom Python script and an SQLite database to ingest, simulate, and structure complex daily operational data. The front-end leverages Power BI and advanced DAX queries to transform this raw data into a dynamic, real-time dashboard, allowing stakeholders to immediately identify stock discrepancies and optimize supply chain efficiency.
